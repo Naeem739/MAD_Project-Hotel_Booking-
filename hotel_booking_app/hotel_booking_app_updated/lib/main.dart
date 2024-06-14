@@ -4,6 +4,7 @@ import 'login_page.dart'; // Remove this line
 import 'package:hotel_booking_app/login_page.dart'; // Remove this line
 import 'package:hotel_booking_app/registration_page.dart';
 import 'registration_page.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 void main() {
   runApp(const MyApp());
